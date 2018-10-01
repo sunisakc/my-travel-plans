@@ -11,6 +11,7 @@ body {
     display: flex;
     margin: 0;
     height: 100%;
+    color: #0a385c;
 }
 .container {
     margin: auto;
