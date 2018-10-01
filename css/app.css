@@ -15,7 +15,7 @@ body {
 .container {
     margin: auto;
     padding: 1em;
-    width: 80%;
+    width: 70%;
 }
 .destination-container {
     display: flex;
@@ -60,6 +60,7 @@ h3 {
     background-color: #d32f2f;
 }
 .footer {
+    margin:0;
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
     color: wheat;
